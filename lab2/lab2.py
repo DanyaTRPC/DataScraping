@@ -1,6 +1,4 @@
-# Київський національний університет імені Тараса Шевченка
-# Посилання: http://www.univ.kiev.ua/
-# Зберегти  зібрані  данні до бази даних
+
 
 from requests import get
 from bs4 import BeautifulSoup
