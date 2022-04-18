@@ -1,4 +1,4 @@
-# Укрінформ
+
 # Посилання: https://www.ukrinform.ua/
 
 from requests import get
